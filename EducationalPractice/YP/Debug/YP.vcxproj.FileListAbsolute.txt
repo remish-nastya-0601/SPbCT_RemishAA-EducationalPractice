@@ -1,5 +1,0 @@
-C:\Users\remis\source\repos\YP\Debug\YP.vcxprojAssemblyReference.cache
-C:\Users\remis\source\repos\YP\Debug\YP.MyForm.resources
-C:\Users\remis\source\repos\YP\Debug\YP.vcxproj.GenerateResource.cache
-C:\Users\remis\source\repos\YP\Debug\YP.exe
-C:\Users\remis\source\repos\YP\Debug\YP.pdb
